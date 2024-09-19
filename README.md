@@ -9,7 +9,7 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/Ozaimoza/SGT-test.git
    ```
 
 2. Create Virtual Env :
