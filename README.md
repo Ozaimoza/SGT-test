@@ -6,7 +6,7 @@
 
 ## Instalation
 
-1. Clone this:
+1. Clone this repository:
 
    ```bash
    git clone https://github.com/username/repository.git
