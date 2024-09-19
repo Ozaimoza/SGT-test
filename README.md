@@ -22,6 +22,7 @@
    ex : python -m venv testenv
 
 3. Activate Virtual Env :
+
    Windows:
 
    ```bash
